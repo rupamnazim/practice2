@@ -4,10 +4,7 @@
           color: white;
           transition: 0.5s;
         }
-        .alert:hover{
-            background-color: #2cb978;
-            color: black;
-        }
+
        
         .closebtn {
           margin-left: 15px; 
@@ -21,11 +18,25 @@
        }
         
         .closebtn:hover{
-          color: green;
+          color: darkgray;
        }
 
+.el6{
+    color:#0e153a;
+    margin-left: 37%;
+    border: none;
+    border-radius: 15px;
+    font-size: 50px;
+    outline: none;
+    background: linear-gradient(to right, rgb(127, 127, 213), rgb(134, 168, 231), rgb(145, 234, 228));
+}
+.el6:hover{
+    opacity: 80%;
+    color: black;
+}
 
-
-       .col-md-5{
-        
-       }
+a{
+    text-decoration: none;
+    color: inherit;
+    outline: none;
+}
