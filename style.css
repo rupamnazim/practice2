@@ -22,21 +22,27 @@
        }
 
 .el6{
-    color:#0e153a;
+    color: white;
     margin-left: 37%;
     border: none;
     border-radius: 15px;
     font-size: 50px;
     outline: none;
-    background: linear-gradient(to right, rgb(127, 127, 213), rgb(134, 168, 231), rgb(145, 234, 228));
+    background: #3f3b3b;
+    
 }
 .el6:hover{
     opacity: 80%;
-    color: black;
 }
 
 a{
     text-decoration: none;
     color: inherit;
     outline: none;
+}
+
+
+.overflow-scroll{
+  width: 30%;
+  height: 500px;
 }
