@@ -1,4 +1,11 @@
        
+       
+       
+       
+.el10{
+  font-size: xx-large;
+}
+       
        .alert {
         -webkit-text-stroke: 0.1px black;
          background-color: #f44336;
@@ -42,8 +49,13 @@ a{
     outline: none;
 }
 
+.el9{
+  font-size: 40px;
+  margin-left: 130px;
+} 
 
-.overflow-scroll{
+
+/* .overflow-scroll{
   width: 30%;
   height: 500px;
-}
+} */
