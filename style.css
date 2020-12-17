@@ -1,5 +1,7 @@
        
-       
+     .dropdown-menu:hover{
+        color: black;
+      }
        
        
 .el10{
@@ -59,3 +61,4 @@ a{
   width: 30%;
   height: 500px;
 } */
+

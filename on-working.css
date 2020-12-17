@@ -1,0 +1,11 @@
+.fw-bolder{
+    font-size: 50px;
+}
+.fas, .fa-grin-wink{
+font-size: 100px;
+transition: 0.5s;
+}
+.fa-grin-wink:hover{
+    
+    background-color: aqua;
+}
