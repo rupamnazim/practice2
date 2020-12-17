@@ -1,0 +1,20 @@
+body{
+    background-color: ;
+}
+
+.page-sizing{
+    margin-top: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 50px;
+    width: 80%;
+    background-color: lightgray;
+}
+button a{
+    color: inherit;
+    text-decoration: none;
+}
+button a:hover{
+    opacity: 70%;
+    color: aqua;
+}
