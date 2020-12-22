@@ -8,28 +8,26 @@
   font-size: xx-large;
 }
        
-       .alert {
-        -webkit-text-stroke: 0.1px black;
-         background-color: #f44336;
-          color: white;
-          transition: 0.5s;
-        }
-
-       
-        .closebtn {
-          margin-left: 15px; 
-          color: white;
-          font-weight: bold;
-          float: right;
-          font-size: 30px;
-          line-height: 20px;
-          cursor: pointer;
-          transition: 0.2s;
-       }
+ .alert {  
+   -webkit-text-stroke: 0.1px black;  
+   background-color: #f44336;  
+   color: white;  
+   transition: 0.5s;   }
+  
+.closebtn {  
+     margin-left: 15px;   
+     color: white;  
+     font-weight: bold;  
+     float: right;  
+     font-size: 30px;  
+     line-height: 20px;  
+     cursor: pointer;  
+     transition: 0.2s;  
+}
         
-        .closebtn:hover{
-          color: darkgray;
-       }
+ .closebtn:hover{
+     color: darkgray;
+  }
 
 .el6{
     color: white;
