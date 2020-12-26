@@ -61,6 +61,20 @@ a{
 } */
 
 .el3{
-  display: inline;
+  margin-left: 3%;
   
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+
+.el1345{
+  margin-bottom: 100px;
+}
+.elu45834{
+  margin-top: 30px;
 }
